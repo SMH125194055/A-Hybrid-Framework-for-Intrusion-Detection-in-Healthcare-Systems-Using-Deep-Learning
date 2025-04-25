@@ -1,0 +1,2 @@
+# A-Hybrid-Framework-for-Intrusion-Detection-in-Healthcare-Systems-Using-Deep-Learning
+💡 Overview: This project implements a hybrid intrusion detection framework for healthcare systems, utilizing deep learning to analyze and classify network packets. The system continuously monitors packets transmitted through the router in an internet connection, detecting whether a packet is normal or part of a cyber attack. 
